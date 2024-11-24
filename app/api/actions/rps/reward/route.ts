@@ -26,7 +26,7 @@ const headers = createActionHeaders({
 // Load and initialize game wallet
 let gameWallet: Keypair;
 try {
-    const privateKeyString = process.env.GAME_WALLET_PRIVATE_KEY;
+    const privateKeyString = process.env.NEXT_PUBLIC_GAME_WALLET_PRIVATE_KEY;
     if (!privateKeyString) {
         throw new Error('GAME_WALLET_PRIVATE_KEY not found in environment');
     }

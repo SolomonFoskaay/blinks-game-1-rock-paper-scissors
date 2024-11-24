@@ -1,12 +1,10 @@
 ## Learn to build Solana Blinks Games - Rock Paper Scissors RPS Game Blinks
+
 Full guide and video at [Solana Blinks Development Ep2: Ultimate Guide To Build Blinks Games (Rock Paper Scissors (RPS) Game Blinks)](https://dprogramminguniversity.com/solana-blinks-guides/ep2-ultimate-guide-to-build-blinks-games-rps-game-blinks/)
 
-
-
+## Getting Started
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-
-## Getting Started
 
 First, run the development server:
 
